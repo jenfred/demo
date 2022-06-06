@@ -18,3 +18,5 @@ for (i in grades$exam_2) {
 
 #More code to test whether git recognizes there's been changes
 hist(grades$exam_1)
+#More code to test HOW git records changes
+max(grades$exam_final)
