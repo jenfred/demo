@@ -15,6 +15,7 @@ for (i in grades$exam_2) {
     print("Needs Improvement")
   }
 }
+
 #More code to test whether git recognizes there's been changes
 hist(grades$exam_1)
 #More code to test HOW git records changes
