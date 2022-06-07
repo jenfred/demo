@@ -20,3 +20,5 @@ for (i in grades$exam_2) {
 hist(grades$exam_1)
 #More code to test HOW git records changes
 max(grades$exam_final)
+#More code to examine CHANGES in git
+min(grades$exam_final)
