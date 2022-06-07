@@ -22,3 +22,5 @@ hist(grades$exam_1)
 max(grades$exam_final)
 #More code to examine CHANGES in git
 min(grades$exam_final)
+#Second round of examining CHANGES in git
+mean(grades$exam_1)
